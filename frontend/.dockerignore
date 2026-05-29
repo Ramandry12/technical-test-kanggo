@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.env
+.env.local
+.env.*.local
+yarn-error.log
+npm-debug.log*
+eslint.config.js
+vitest.config.ts
